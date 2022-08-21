@@ -19,8 +19,8 @@ public class Pusher {
     public static void main(String[] args) {
         push();
     }
-    private static String appId = "wx638bcb88dfaf59ae";
-    private static String secret = "1195d5394f9fbe0ba1f886e09bae3373";
+    private static String appId = "wxb3fd3903986c2e31";
+    private static String secret = "23f83fd7ee14f68c9fe1c162e542c06e";
 
 
 
